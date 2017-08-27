@@ -1,4 +1,4 @@
-package me.leifgao.me;
+package me.leifgao.crazy;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
