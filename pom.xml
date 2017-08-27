@@ -8,7 +8,6 @@
     <modules>
         <module>crazy-14-annotation</module>
         <module>crazy-18-reflect</module>
-    <module>crazy-18-reflect</module>
   </modules>
     <packaging>pom</packaging>
 
